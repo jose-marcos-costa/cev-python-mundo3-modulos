@@ -1,5 +1,3 @@
-# from uteis import fatorial, dobro # Não é recomendado quando se usa muitos módulos (Incompatibilidade)
-import uteis
 
 
 num = int(input("Digite um valor: "))
